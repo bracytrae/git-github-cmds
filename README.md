@@ -6,9 +6,9 @@ Git is used to track changes locally on my computer. GitHub is used to store rep
 
 ---
 
-## Git Setup Commands
+## git setup commands
 
-| Command              | What It Does                              |
+| command              | what it does                              |
 | -------------------- | ----------------------------------------- |
 | `git init`           | Starts Git tracking in the current folder |
 | `git status`         | Shows the current state of the project    |
@@ -17,9 +17,9 @@ Git is used to track changes locally on my computer. GitHub is used to store rep
 
 ---
 
-## Staging and Committing Commands
+## staging and committing commands
 
-| Command                          | What It Does                        |
+| command                          | what it does                        |
 | -------------------------------- | ----------------------------------- |
 | `git add .`                      | Stages all changed files            |
 | `git add file-name`              | Stages one specific file            |
@@ -27,9 +27,9 @@ Git is used to track changes locally on my computer. GitHub is used to store rep
 
 ---
 
-## GitHub Remote Commands
+## github remote commands
 
-| Command                                | What It Does                                          |
+| command                                | what it does                                          |
 | -------------------------------------- | ----------------------------------------------------- |
 | `git remote add origin repository-url` | Connects a local project to a GitHub repository       |
 | `git remote -v`                        | Shows the connected GitHub remote                     |
@@ -39,17 +39,17 @@ Git is used to track changes locally on my computer. GitHub is used to store rep
 
 ---
 
-## Clone Command
+## clone command
 
-| Command                    | What It Does                                 |
+| command                    | what it does                                 |
 | -------------------------- | -------------------------------------------- |
 | `git clone repository-url` | Copies a GitHub repository onto the computer |
 
 ---
 
-## Branch Commands
+## branch commands
 
-| Command                                      | What It Does                                    |
+| command                                      | what it does                                    |
 | -------------------------------------------- | ----------------------------------------------- |
 | `git checkout -b branch-name`                | Creates a new branch and switches to it         |
 | `git checkout branch-name`                   | Switches to an existing branch                  |
@@ -59,7 +59,7 @@ Git is used to track changes locally on my computer. GitHub is used to store rep
 
 ---
 
-## Practice Commands
+## practice commands
 
 ```bash
 git init
@@ -84,7 +84,7 @@ git branch -D branch-name
 
 ---
 
-## Common Git Workflow
+## common git workflow
 
 ```bash
 git status
@@ -95,7 +95,7 @@ git push
 
 ---
 
-## New Project Workflow
+## new project workflow
 
 ```bash
 mkdir my-project
@@ -111,7 +111,7 @@ git push -u origin main
 
 ---
 
-## Pull Request Branch Workflow
+## pull request branch workflow
 
 ```bash
 git checkout -b update-readme
@@ -122,7 +122,7 @@ git push --set-upstream origin update-readme
 
 ---
 
-## What I Practiced
+## what I practiced
 
 * Starting a Git repository
 * Checking the status of a project
