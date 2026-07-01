@@ -15,7 +15,7 @@ this repository is a summary of **(CLI)** commands I practiced while learning ho
 
 ---
 
-## staging and committing commands
+## staging & committing commands
 
 | command                          | what it does                        |
 | -------------------------------- | ----------------------------------- |
@@ -109,7 +109,7 @@ git push -u origin main
 
 ---
 
-## pull request branch workflow
+## PR branch workflow
 
 ```bash
 git checkout -b update-readme
