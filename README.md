@@ -1,52 +1,54 @@
-# git-github-cmds
+# Git & GitHub Commands
 
-## git setup 
+This repository contains Git and GitHub commands I practiced while learning setup, remotes, staging, commits, branches, and cloning.
 
-| command              | what it does                              |
+## Git Setup
+
+| Command              | What It Does                              |
 | -------------------- | ----------------------------------------- |
-| `git init`           | initializes a git repository              |
-| `git status`         | shows the current state of the project    |
-| `git branch`         | shows the branches in the repository      |
-| `git branch -M main` | renames the current branch to `main`      |
+| `git init`           | Initializes a Git repository              |
+| `git status`         | Shows the current state of the project    |
+| `git branch`         | Shows the branches in the repository      |
+| `git branch -M main` | Renames the current branch to `main`      |
 
 ---
 
-## github remote process
+## GitHub Remote Process
 
-| command                                | what it does                                          |
+| Command                                | What It Does                                          |
 | -------------------------------------- | ----------------------------------------------------- |
-| `git remote add origin repository-url` | connects a local project to a github repository       |
-| `git remote -v`                        | shows the connected github remote                     |
-| `git push -u origin main`              | pushes the `main` branch to github for the first time |
-| `git push`                             | pushes new commits to github                          |
-| `git pull`                             | pulls the newest changes from github                  |
+| `git remote add origin repository-url` | Connects a local project to a GitHub repository       |
+| `git remote -v`                        | Shows the connected GitHub remote                     |
+| `git push -u origin main`              | Pushes the `main` branch to GitHub for the first time |
+| `git push`                             | Pushes new commits to GitHub                          |
+| `git pull`                             | Pulls the newest changes from GitHub                  |
 
 ---
 
-## staging & committing 
+## Staging & Committing
 
-| command                          | what it does                        |
+| Command                          | What It Does                        |
 | -------------------------------- | ----------------------------------- |
-| `git add .`                      | stages all changed files            |
-| `git add file-name`              | stages one specific file            |
-| `git commit -m "commit message"` | saves staged changes with a message |
+| `git add .`                      | Stages all changed files            |
+| `git add file-name`              | Stages one specific file            |
+| `git commit -m "commit message"` | Saves staged changes with a message |
 
 ---
 
-## branching
+## Branching
 
-| command                                      | what it does                                    |
+| Command                                      | What It Does                                    |
 | -------------------------------------------- | ----------------------------------------------- |
-| `git checkout -b branch-name`                | creates a new branch and switches to it         |
-| `git checkout branch-name`                   | switches to an existing branch                  |
-| `git push --set-upstream origin branch-name` | pushes a new branch to github                   |
-| `git branch -d branch-name`                  | deletes a local branch after it has been merged |
-| `git branch -D branch-name`                  | force deletes a local branch                    |
+| `git checkout -b branch-name`                | Creates a new branch and switches to it         |
+| `git checkout branch-name`                   | Switches to an existing branch                  |
+| `git push --set-upstream origin branch-name` | Pushes a new branch to GitHub                   |
+| `git branch -d branch-name`                  | Deletes a local branch after it has been merged |
+| `git branch -D branch-name`                  | Force deletes a local branch                    |
 
 ---
 
-## cloning
+## Cloning
 
-| command                    | what it does                                 |
+| Command                    | What It Does                                 |
 | -------------------------- | -------------------------------------------- |
-| `git clone repository-url` | copies a github repository onto the computer |
+| `git clone repository-url` | Copies a GitHub repository onto the computer |
