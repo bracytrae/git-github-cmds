@@ -4,7 +4,7 @@ this repository is a summary of command-line cmds I practiced while learning how
 
 ---
 
-## git setup cmds
+## git setup 
 
 | command              | what it does                              |
 | -------------------- | ----------------------------------------- |
@@ -15,7 +15,7 @@ this repository is a summary of command-line cmds I practiced while learning how
 
 ---
 
-## staging & committing cmds
+## staging & committing 
 
 | command                          | what it does                        |
 | -------------------------------- | ----------------------------------- |
@@ -25,7 +25,7 @@ this repository is a summary of command-line cmds I practiced while learning how
 
 ---
 
-## github remote cmds
+## github remote process
 
 | command                                | what it does                                          |
 | -------------------------------------- | ----------------------------------------------------- |
@@ -37,7 +37,7 @@ this repository is a summary of command-line cmds I practiced while learning how
 
 ---
 
-## clone cmd
+## cloning
 
 | command                    | what it does                                 |
 | -------------------------- | -------------------------------------------- |
@@ -45,7 +45,7 @@ this repository is a summary of command-line cmds I practiced while learning how
 
 ---
 
-## branch cmds
+## branching
 
 | command                                      | what it does                                    |
 | -------------------------------------------- | ----------------------------------------------- |
