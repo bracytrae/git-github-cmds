@@ -11,16 +11,6 @@
 
 ---
 
-## staging & committing 
-
-| command                          | what it does                        |
-| -------------------------------- | ----------------------------------- |
-| `git add .`                      | stages all changed files            |
-| `git add file-name`              | stages one specific file            |
-| `git commit -m "commit message"` | saves staged changes with a message |
-
----
-
 ## github remote process
 
 | command                                | what it does                                          |
@@ -30,6 +20,16 @@
 | `git push -u origin main`              | pushes the `main` branch to github for the first time |
 | `git push`                             | pushes new commits to github                          |
 | `git pull`                             | pulls the newest changes from github                  |
+
+---
+
+## staging & committing 
+
+| command                          | what it does                        |
+| -------------------------------- | ----------------------------------- |
+| `git add .`                      | stages all changed files            |
+| `git add file-name`              | stages one specific file            |
+| `git commit -m "commit message"` | saves staged changes with a message |
 
 ---
 
