@@ -1,8 +1,6 @@
 # git-github-cmds
 
-this repository is a summary of git && github commands I practiced while learning version control
-
-git is used to track changes locally on my computer && github is used to store repositories online and push code to a remote location
+this repository is a summary of git && github commands 
 
 ---
 
@@ -121,17 +119,3 @@ git push --set-upstream origin update-readme
 ```
 
 ---
-
-## what I practiced
-
-* starting a git repository
-* checking the status of a project
-* staging files
-* committing changes
-* connecting a project to github
-* pushing code to github
-* pulling updates from github
-* cloning repositories
-* creating and switching branches
-* deleting local branches
-* understanding the difference between git & github
