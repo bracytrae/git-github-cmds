@@ -52,3 +52,9 @@ This repository contains Git and GitHub commands I practiced while learning setu
 | Command                    | What It Does                                 |
 | -------------------------- | -------------------------------------------- |
 | `git clone repository-url` | Copies a GitHub repository onto the computer |
+
+---
+
+## Credit
+
+Credit to CodeDex for the Git and GitHub learning material this practice is based on. I organized these commands here in my own words for review.
